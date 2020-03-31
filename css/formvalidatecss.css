@@ -1,0 +1,128 @@
+/* Signup form */
+
+#form1 table {
+  border-spacing: 0px;
+  border-collapse: collapse;
+  empty-cells: show;
+}
+
+#form1 .field {
+  padding-bottom: 10px;
+  white-space: nowrap;
+}
+
+#form1 .textfield {
+  width: 250px;
+  height:60px;
+}
+
+#form1 .label {
+  padding-top: 2px;
+  padding-right: 8px;
+  vertical-align: top;
+  text-align: right;
+  width:auto;
+  white-space: nowrap;
+}
+
+#form1 .status {
+  padding-top: 2px;
+  padding-left: 8px;
+  vertical-align: middle;
+  width:auto;
+  float:left;
+  white-space: nowrap;
+  color:#008700;
+}
+
+
+
+#form1 .innerstatus {
+  padding-top: 2px;
+  padding-left: 0px;
+  vertical-align: middle;
+  width:22;
+  white-space: nowrap; 
+}
+
+#form1 .innerstatusnew {
+  padding-top: 2px;
+  padding-left: 0px;
+  vertical-align: middle;
+  width:22;
+  white-space: nowrap; 
+}
+
+#form1 .innertextfield {
+  width: 116px;
+  height:60px;
+}
+
+#form1 label.error {
+  background:url("../images/unchecked.gif") no-repeat 0px 0px;
+  padding-left: 16px;
+  padding-bottom: 2px;    
+  
+}
+
+#form1 label.checked {
+  background:url("../images/checked.gif") no-repeat 0px 0px;
+}
+
+#form1 .success_msg {
+  font-weight: bold;
+  color: #0060BF;
+  margin-left: 19px;
+}
+
+#form1 label.error {
+  background: url("../images/unchecked.gif") no-repeat scroll 0 0px transparent;
+    float:none;
+    margin-right: 203px;
+    margin-top: -48px;
+    padding-bottom: 2px;
+    padding-left: 20px;
+	width:110px;
+  
+}
+
+#form1 label.checked {
+  background:url("../images/checked.gif") no-repeat 0px 0px;
+}
+
+#form1 .success_msg {
+  font-weight: bold;
+  color: #0060BF;
+  margin-left: 19px;
+}
+#form1 .status {
+  padding-top: 2px;
+  padding-left: 8px;
+  vertical-align: middle;
+  width:auto;
+  white-space: nowrap; 
+}
+#form1 .innertextfield {
+  width: 130px;
+  height:60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
